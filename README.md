@@ -4,17 +4,21 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E88F&center=true&vCenter=true&width=760&lines=Eu+gosto+de+transformar+ideia+em+produto.;Web%2C+mobile%2C+jogos+e+experimentos.;Se+d%C3%A1+pra+melhorar%2C+eu+provavelmente+vou+mexer." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E88F&center=true&vCenter=true&width=760&lines=TI+%E2%80%A2+Desenvolvimento+Web+%E2%80%A2+Ciberseguran%C3%A7a;Transformando+ideias+em+produtos.;Web%2C+mobile%2C+seguran%C3%A7a+e+experimentos.;Sempre+tem+alguma+coisa+nova+sendo+constru%C3%ADda..." alt="Typing SVG" />
+
+<br>
+
+`TI • Desenvolvimento Web • Cibersegurança`
 
 </div>
 
 ## sobre mim
 
-Eu curto pegar uma ideia crua e ir mexendo nela até começar a parecer um produto de verdade.
+Eu gosto de pegar uma ideia crua e ir mexendo nela até começar a parecer um produto de verdade.
 
-Não fico preso em uma área só. Faço web, mobile, interface, automação e também invento projeto que provavelmente vai me dar mais trabalho do que deveria.
+Minha área gira principalmente em torno de **TI, desenvolvimento web e cibersegurança**, mas não fico preso só nisso. Também trabalho com interfaces, aplicações mobile, automações, infraestrutura e alguns experimentos diferentes.
 
-No momento, boa parte do que eu faço gira em torno de projetos próprios e de aprender construindo.
+Grande parte do que faço vem de projetos próprios e de aprender construindo, testando, quebrando e melhorando.
 
 ## projetos que estou levando a sério
 
@@ -34,11 +38,23 @@ Questões, revisões, evolução e organização de estudo sem parecer aquele si
 
 Um projeto de jogo estilizado em que o mapa começa quase vazio e vai ganhando cor conforme a partida acontece.
 
+## áreas
+
+```text
+TI
+├── Desenvolvimento Web
+├── Cibersegurança
+├── Aplicações Mobile
+├── Interfaces
+├── Automação
+└── Infraestrutura
+```
+
 ## stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,html,css,git,github,vscode,vercel,cloudflare&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,html,css,linux,git,github,vscode,vercel,cloudflare&theme=dark" alt="Tech stack" />
 
 </div>
 
