@@ -4,11 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E88F&center=true&vCenter=true&width=760&lines=TI+%E2%80%A2+Desenvolvimento+Web+%E2%80%A2+Ciberseguran%C3%A7a;Transformando+ideias+em+produtos.;Web%2C+mobile%2C+seguran%C3%A7a+e+experimentos.;Sempre+tem+alguma+coisa+nova+sendo+constru%C3%ADda..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E88F&center=true&vCenter=true&width=760&lines=Full-Stack+%E2%80%A2+Front-End+%E2%80%A2+UI%2FUX+%E2%80%A2+Mobile-First;PWA+%E2%80%A2+Supabase+%E2%80%A2+Cloudflare+%E2%80%A2+Product+Design;Transformando+ideias+em+produtos.;build+%3E+test+%3E+break+%3E+improve+%3E+repeat" alt="Typing SVG" />
 
 <br>
 
-`TI • Desenvolvimento Web • Cibersegurança`
+`Full-Stack • Front-End • UI/UX • Mobile-First`
 
 </div>
 
@@ -16,9 +16,36 @@
 
 Eu gosto de pegar uma ideia crua e ir mexendo nela até começar a parecer um produto de verdade.
 
-Minha área gira principalmente em torno de **TI, desenvolvimento web e cibersegurança**, mas não fico preso só nisso. Também trabalho com interfaces, aplicações mobile, automações, infraestrutura e alguns experimentos diferentes.
+Meu trabalho mistura **desenvolvimento full-stack, front-end, UI/UX e produto**, com bastante atenção para experiência mobile, interfaces responsivas e aplicações que realmente sejam agradáveis de usar.
 
 Grande parte do que faço vem de projetos próprios e de aprender construindo, testando, quebrando e melhorando.
+
+## especialidades
+
+```text
+Desenvolvimento
+├── Full-Stack Web
+├── Front-End
+├── React / Next.js
+├── PWA
+└── Aplicações Mobile
+
+Produto & Interface
+├── UI/UX Design
+├── Mobile-First
+├── Responsividade
+├── Design de Produto
+└── Refinamento visual
+
+Backend & Infra
+├── Supabase
+├── Autenticação
+├── Banco de dados
+├── Git / GitHub
+└── Cloudflare
+```
+
+Também venho construindo produtos em **AgTech** e **EdTech**, além de projetos experimentais de jogos e interfaces.
 
 ## projetos que estou levando a sério
 
@@ -42,11 +69,13 @@ Um projeto de jogo estilizado em que o mapa começa quase vazio e vai ganhando c
 
 ```text
 TI
+├── Desenvolvimento Full-Stack
 ├── Desenvolvimento Web
-├── Cibersegurança
+├── Front-End
+├── UI/UX
 ├── Aplicações Mobile
-├── Interfaces
-├── Automação
+├── PWA
+├── Cibersegurança
 └── Infraestrutura
 ```
 
@@ -54,7 +83,7 @@ TI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,html,css,linux,git,github,vscode,vercel,cloudflare&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,html,css,supabase,linux,git,github,vscode,cloudflare&theme=dark" alt="Tech stack" />
 
 </div>
 
