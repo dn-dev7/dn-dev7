@@ -4,78 +4,54 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E88F&center=true&vCenter=true&width=760&lines=Full-Stack+%E2%80%A2+Front-End+%E2%80%A2+UI%2FUX+%E2%80%A2+Mobile-First;PWA+%E2%80%A2+Supabase+%E2%80%A2+Cloudflare+%E2%80%A2+Product+Design;Transformando+ideias+em+produtos.;build+%3E+test+%3E+break+%3E+improve+%3E+repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E88F&center=true&vCenter=true&width=760&lines=TI+%E2%80%A2+Desenvolvimento+Web+%E2%80%A2+Ciberseguran%C3%A7a;Full-Stack+%E2%80%A2+APIs+%E2%80%A2+Produtos+Digitais;Criando+produtos+e+sistemas+do+zero.;build+%3E+test+%3E+break+%3E+improve+%3E+repeat" alt="Typing SVG" />
 
 <br>
 
-`Full-Stack • Front-End • UI/UX • Mobile-First`
+`TI • Desenvolvimento Web • Cibersegurança`
 
 </div>
 
 ## sobre mim
 
-Eu gosto de pegar uma ideia crua e ir mexendo nela até começar a parecer um produto de verdade.
+Eu gosto de pegar uma ideia ainda crua e ir construindo até ela virar um produto de verdade.
 
-Meu trabalho mistura **desenvolvimento full-stack, front-end, UI/UX e produto**, com bastante atenção para experiência mobile, interfaces responsivas e aplicações que realmente sejam agradáveis de usar.
+Trabalho principalmente com **TI, desenvolvimento web e cibersegurança**, passando por front-end, back-end, APIs, interfaces, aplicações mobile e infraestrutura.
 
-Grande parte do que faço vem de projetos próprios e de aprender construindo, testando, quebrando e melhorando.
+Boa parte do que aprendo vem dos meus próprios projetos: penso na ideia, desenvolvo, testo, quebro alguma coisa no caminho e vou melhorando até funcionar do jeito que eu queria.
 
-## especialidades
+Também desenvolvi uma **API própria de IA para o NivoAI**, criada para integrar os recursos de inteligência artificial ao ecossistema do Nivo.
 
-```text
-Desenvolvimento
-├── Full-Stack Web
-├── Front-End
-├── React / Next.js
-├── PWA
-└── Aplicações Mobile
-
-Produto & Interface
-├── UI/UX Design
-├── Mobile-First
-├── Responsividade
-├── Design de Produto
-└── Refinamento visual
-
-Backend & Infra
-├── Supabase
-├── Autenticação
-├── Banco de dados
-├── Git / GitHub
-└── Cloudflare
-```
-
-Também venho construindo produtos em **AgTech** e **EdTech**, além de projetos experimentais de jogos e interfaces.
-
-## projetos que estou levando a sério
+## projetos
 
 ### Hydra Agro
 
-Tecnologia voltada para gestão rural.
+Projeto de tecnologia voltado para gestão rural.
 
-A ideia é deixar informações da propriedade mais fáceis de organizar e consultar, sem transformar tudo num sistema complicado de usar.
+O objetivo é reunir informações importantes da propriedade em um só lugar e deixar tarefas como organização de animais, água, setores e atividades mais simples de acompanhar.
 
-### NivoStudy
+O projeto nasceu pensando em uso real no campo, com foco em uma experiência mais direta, organizada e acessível.
 
-Um app de estudos com uma pegada mais social.
+### NivoStudy + NivoAI
 
-Questões, revisões, evolução e organização de estudo sem parecer aquele sistema escolar travado.
+O NivoStudy é um app focado em estudos, acompanhamento de evolução, questões, revisões e experiência social.
 
-### BLANK
+Dentro desse ecossistema também desenvolvi o **NivoAI**, incluindo uma **API própria de inteligência artificial** para alimentar os recursos de IA do produto.
 
-Um projeto de jogo estilizado em que o mapa começa quase vazio e vai ganhando cor conforme a partida acontece.
+Mais do que apenas montar a interface, trabalhei na estrutura do produto, integração entre os recursos e na construção da parte de IA que faz parte da experiência do Nivo.
 
 ## áreas
 
 ```text
 TI
-├── Desenvolvimento Full-Stack
 ├── Desenvolvimento Web
+├── Full-Stack
 ├── Front-End
-├── UI/UX
-├── Aplicações Mobile
-├── PWA
+├── APIs
 ├── Cibersegurança
+├── Aplicações Mobile
+├── UI/UX
+├── PWA
 └── Infraestrutura
 ```
 
