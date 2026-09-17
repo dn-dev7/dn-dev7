@@ -20,17 +20,15 @@ Trabalho principalmente com **TI, desenvolvimento web e cibersegurança**, passa
 
 Boa parte do que aprendo vem dos meus próprios projetos: penso na ideia, desenvolvo, testo, quebro alguma coisa no caminho e vou melhorando até funcionar do jeito que eu queria.
 
-Também desenvolvi uma **API própria de IA para o NivoAI**, criada para integrar os recursos de inteligência artificial ao ecossistema do Nivo.
-
 ## projeto em destaque
 
-### NivoStudy + NivoAI
+### NivoAI
 
-O NivoStudy é um app focado em estudos, acompanhamento de evolução, questões, revisões e experiência social.
+O **NivoAI** é um dos projetos em que concentro meu trabalho com produto, desenvolvimento web e inteligência artificial.
 
-Dentro desse ecossistema também desenvolvi o **NivoAI**, incluindo uma **API própria de inteligência artificial** para alimentar os recursos de IA do produto.
+Além da interface e da estrutura da aplicação, desenvolvi uma **API própria de IA para o NivoAI**, responsável por conectar e organizar os recursos inteligentes do produto.
 
-Mais do que apenas montar a interface, trabalhei na estrutura do produto, integração entre os recursos e na construção da parte de IA que faz parte da experiência do Nivo.
+O projeto envolve front-end, back-end, autenticação, APIs, persistência de dados e infraestrutura, com foco em uma experiência simples e bem acabada.
 
 ## áreas
 
