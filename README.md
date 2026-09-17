@@ -22,15 +22,7 @@ Boa parte do que aprendo vem dos meus próprios projetos: penso na ideia, desenv
 
 Também desenvolvi uma **API própria de IA para o NivoAI**, criada para integrar os recursos de inteligência artificial ao ecossistema do Nivo.
 
-## projetos
-
-### Hydra Agro
-
-Projeto de tecnologia voltado para gestão rural.
-
-O objetivo é reunir informações importantes da propriedade em um só lugar e deixar tarefas como organização de animais, água, setores e atividades mais simples de acompanhar.
-
-O projeto nasceu pensando em uso real no campo, com foco em uma experiência mais direta, organizada e acessível.
+## projeto em destaque
 
 ### NivoStudy + NivoAI
 
