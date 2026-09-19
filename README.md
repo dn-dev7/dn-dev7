@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="DN DEV animated header" />
+<img src="./assets/header.svg" width="100%" alt="Nivo Labs animated header" />
 
 <br>
 
