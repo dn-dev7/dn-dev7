@@ -67,7 +67,7 @@
     <g font-family="monospace" font-size="13" fill="#6AF5B8" opacity=".52">
       <text x="56" y="54">SYSTEM::PROFILE_INIT</text>
       <text x="958" y="54">STATUS::ONLINE</text>
-      <text x="56" y="322">BUILD::DN_DEV</text>
+      <text x="56" y="322">BUILD::NIVO_LABS</text>
       <text x="948" y="322">MODE::CREATIVE</text>
     </g>
 
@@ -84,7 +84,7 @@
           letter-spacing="7"
           fill="#F7FFFB"
           filter="url(#textGlow)">
-      DN DEV
+      NIVO LABS
       <animate attributeName="opacity" values="0;1;1;1" keyTimes="0;.12;.92;1" dur="3.2s" repeatCount="indefinite"/>
     </text>
 
